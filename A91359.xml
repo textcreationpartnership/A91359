@@ -1,0 +1,201 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prynn against Prinn. Or, the answer of William Prynne, utter Barrester of Lincolnes Inne: to a pamphlet lately published by William Prynne Esquire, a member of the House of Commons. Intituled A Briefe Memento to the present un-parliamentary Juncto, touching their present intentions and proceedings to depose and execute Charles Steuart, their lawfull King. January 25. 1648. Imprimatur Theodore Jennings.</title>
+            <author>Purefoy, William, 1580?-1659.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91359</idno>
+            <idno type="STC">Wing P4228A</idno>
+            <idno type="STC">Thomason E540_6</idno>
+            <idno type="STC">ESTC R205753</idno>
+            <idno type="EEBO-CITATION">99865037</idno>
+            <idno type="PROQUEST">99865037</idno>
+            <idno type="VID">117271</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91359)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117271)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 84:E540[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Prynn against Prinn. Or, the answer of William Prynne, utter Barrester of Lincolnes Inne: to a pamphlet lately published by William Prynne Esquire, a member of the House of Commons. Intituled A Briefe Memento to the present un-parliamentary Juncto, touching their present intentions and proceedings to depose and execute Charles Steuart, their lawfull King. January 25. 1648. Imprimatur Theodore Jennings.</title>
+                  <author>Purefoy, William, 1580?-1659.</author>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robbert Ibbitson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: Prynne, William  A briefe memento to the present un-parliamentary junto.</note>
+                  <note>Attributed to William Purefoy by DNB and ESTC. Cf. LCNA.</note>
+                  <note>Annotation on Thomason copy: "Jan: 26. 1648"; the "9" in the imprint has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Prynne, William, 1600-1669. --  A briefe memento to the present un-parliamentary junto.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117271:1" rendition="simple:additions"/>
+            <p>Prynn againſt Prinn.</p>
+            <p>OR, The Anſwer of <hi>William Prynne,</hi> Utter Barreſter of <hi>Lincolnes Inne:</hi> TO A Pamphlet lately publiſhed by <hi>William Prynne</hi> Eſquire, a Member of the Houſe of COMMONS.</p>
+            <p>INTITULED <hi>A Briefe Memento to the preſent <g ref="char:V">Ʋ</g>n-Parliamentary Juncto,</hi> Touching their preſent Intentions and proceedings to Depoſe and Execute <hi>Charles Steuart,</hi> their lawfull King.</p>
+            <p>
+               <hi>January</hi> 25. 1648.</p>
+            <p>Imprimatur THEODORE JENNINGS.</p>
+            <p>LONDON, Printed for Robert Ibbitſon. 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117271:2"/>
+            <pb n="3" facs="tcp:117271:2"/>
+            <head>
+               <hi>Prynne</hi> againſt <hi>Prynne,</hi> OR, The Anſwer of <hi>William Prynne,</hi> to a Pamphlet intituled, <hi>A Briefe Memento to the preſent un-Parliamentary</hi> JUNCTO.</head>
+            <p>
+               <seg rend="decorInit">I</seg> 
+               <hi>William Prinne</hi> Utter-Barreſter have lately peruſed a Pamphlet, intituled, <hi>A briefe Memento to the preſent Unparlia<g ref="char:EOLhyphen"/>mentary Juncto, Touching their preſent pro<g ref="char:EOLhyphen"/>ceedings to depoſe and execute</hi> Charles Stu<g ref="char:EOLhyphen"/>art <hi>their lawfull King, and ſet forth by</hi> William Prin <hi>Eſquire a Member of the Houſe of Commons,</hi> And I have weighed the Reaſons whereupon the ſaid <hi>Willi<g ref="char:EOLhyphen"/>am Prinne</hi> the Member would indeavour to diſſwade the reſt of the Members now ſitting in Parliament from acting or proceeding againſt the King. And I <hi>William Prinne</hi> the Barreſter, doe call to mind That I
+<pb n="4" facs="tcp:117271:3"/>did heretofore publiſh a large Treatiſe called the <hi>So<g ref="char:EOLhyphen"/>veraigne power of Parliaments and Kingdomes.</hi> Which I have divided into four parts, And in this Treatiſe I <hi>William Prinne</hi> the Barreſter have pleaded the Par<g ref="char:EOLhyphen"/>liament and Kingdomes Cauſe againſt the King and his party, And I have aſſerted this truth as the ſum of all; That the Parliament is the higheſt Soveraigne power of all others, and I have in my Epiſtle to the Reader before my firſt part, ſecond Edition affirmed this.</p>
+            <p>That I have proved the particulars contained in that Treatiſe with Arguments and Reaſons, ſeconded and fortified with ſuch Domeſtick and Forraine Pre<g ref="char:EOLhyphen"/>ſidents and Authorities of all ſorts, as well divine as humaine, polliticall, hiſtoricall, and legall, as may (effectually convince the obſtinate wills, abundantly ſatisfie the moſt ſeduced prejudicated judgement, and reſolve the moſt ſcrupulous conſcience, and eternally ſilence the ignorant and moſt malicious tongues and pennes) of all Royaliſts and Antiparliamentary Ma<g ref="char:EOLhyphen"/>lignants, who are not willfully wedded to their long eſpouſed errours, or more inamored with fordid Court flattery for private ſelfe ends, then faireſt though (hated ungainefull verity) which aimes at no<g ref="char:EOLhyphen"/>thing but publique good.</p>
+            <p>And further, I <hi>William Prinne</hi> the Barreſter, have in my ſaid Epiſtle proteſted before the great Judge of Heaven and Earth; that I have therein wittingly maintained nothing at all, but what my judgement and conſcience unbyaſſed by any ſiniſter end, or pri<g ref="char:EOLhyphen"/>vate reſpect, as aiming at nought elſe but the glory of God, the ſettled weale and tranquillity of our di<g ref="char:EOLhyphen"/>ſtracted
+<pb n="5" facs="tcp:117271:3"/>bleeding, dying Church and State, the onely motives engaging me in this ſervice) informe me to be a well grounded antient pregnant (though lately overclouded, undiſcovered, neglected, much oppug<g ref="char:EOLhyphen"/>ned truth: And that albeit moſt of the particulars contained and debated in that Treatiſe, have for ma<g ref="char:EOLhyphen"/>ny years beene decried (that I may not ſay ſtigma<g ref="char:EOLhyphen"/>tized) for ſeditious, dangerous, Antimonarchicall Paradoxes, if not worſe by the generall Torrent of Court Paraſites, Lawyers, and Theologues: That yet I doubt not but when ſeriouſly examined by the true Principles of Religion, nature, Law, policy, the various preſidents and authorities of former Ages, and throughly digeſted without prejudice or partial<g ref="char:EOLhyphen"/>lity. They will appeare, yea ſhine forth to be moſt neceſſary, profitable, loyall, State ſecuring, peace procuring, verities, yea as the very nerves and ſinews to unite, the pillars to ſupport, the bullwarke to pro<g ref="char:EOLhyphen"/>tect both Church and State againſt all Invaſions of Hereſie or Tiranny, and to keepe all the potent Mem<g ref="char:EOLhyphen"/>bers of them within their ſeverall bounds.</p>
+            <p>And the truth of this my Poſition.</p>
+            <p>That the Kingdome in Parliament aſſembled, is above the King.</p>
+            <p>I <hi>William Prinne</hi> the Barreſter have ſpeciall rea<g ref="char:EOLhyphen"/>ſons in my ſayd firſt part. Pag. 6.</p>
+            <p>Becauſe the King was firſt created and inſtituted by the kingdome and people; and not the kingdome and people by the King.</p>
+            <p>Becauſe the King was ordained onely for the king<g ref="char:EOLhyphen"/>dome and peoples ſervice and welfare, not the king<g ref="char:EOLhyphen"/>dome and people for him.</p>
+            <pb n="6" facs="tcp:117271:4"/>
+            <p>Becauſe as the kingdome and people firſt created, So they ſtill limit and confine the Kings Juriſdiction by Law; to which they are and ought to be ſubject.</p>
+            <p>Becauſe the kingdome and people obliege the King by a ſolemne Oath to rule according to Law, and to be obedient unto Law.</p>
+            <p>Becauſe the kingdome and people have power to depoſe the King, in caſe he contemne the Law, and violently rob and ſpoyle his Subjects.</p>
+            <p>Pag. 100. Becauſe the whole kingdome and peo<g ref="char:EOLhyphen"/>ple are the originall ſupreme ſoveraigne power, by whoſe common conſent and authority all lawfull Kings, kingdomes, and Royalties were at firſt created and inſtituted, and from whom they derived all their Regall Juriſdiction.</p>
+            <p>Likewiſe I <hi>William Prinne</hi> the Barreſter, have ſhew<g ref="char:EOLhyphen"/>ed, pag. 7, 8. That Parliaments have challenged and executed a juſt and legall power (as they deemed it) to depoſe their King for not governing according to Law, for following and protecting evill Councellors, for oppreſſing their Subjects, and for making warre againſt them: And I have inſtanced in thirteen Kings of this Realme, who have been ſo dealt withall, whereof five ſince the Conqueſt,</p>
+            <p>And <hi>Page</hi> 29. I <hi>William Prin</hi> the Barreſter have inſerted <hi>inter alia,</hi> the Articles whereupon King <hi>Rich<g ref="char:EOLhyphen"/>ard</hi> 2. was depoſed, with theſe words for addition, <hi>page</hi> 30. (which how parallel they are to the Court practiſes and doctrines of our times, let wiſe men de<g ref="char:EOLhyphen"/>termine) and <hi>page</hi> 80. I have made further Obſerva<g ref="char:EOLhyphen"/>tions and Juſtifications upon the Preſident of depo<g ref="char:EOLhyphen"/>ſing <hi>Richard</hi> the ſecond, and I have inſerted the
+<pb n="7" facs="tcp:117271:4"/>whole proceedings touching that depoſition.</p>
+            <p>And <hi>page</hi> 78 I have ſet forth the Paſſages upon the depoſition of <hi>R. c.</hi> 2. and likewiſe made further obſervations and juſtifications thereupon. Likewiſe I <hi>William Prin</hi> the Barreſter have ſhewed <hi>page</hi> 9. That the Crown hath often been tranſlated by Par<g ref="char:EOLhyphen"/>liaments from the right Heirs, and ſetled on others who had no lawfull right or title to it. And I have inſtanced in twelve particulars of this kind, whereof ſeven ſince the Conqueſt: And particularly that af<g ref="char:EOLhyphen"/>ter the death of <hi>William Rufus,</hi> The Clergie, Nobles, and Commons refuſed to admit of any King but with capitulations and caveats to their own liking; and upon which termes they elected King <hi>Henry</hi> the firſt though he were not next heir to the Crown. All which particulars with much more of the like na<g ref="char:EOLhyphen"/>ture, I the ſaid <hi>William Prin</hi> the Barreſter have ſet forth in my ſaid firſt part of the Soveraign power of Parliaments, and though I have mentioned them to have been acted and done by Popiſh Parliaments, Popiſh Barrons, Prelates, and Commons, yet I have not inſtanced, That any of them were done upon a<g ref="char:EOLhyphen"/>ny Popiſh principles; but for better clearing of the generall reaſon of them all, I <hi>William Prin</hi> the Bar<g ref="char:EOLhyphen"/>reſter have added <hi>p.</hi> 20. of the ſaid firſt part; That theſe Jurisdictions were thus practiſed by the people to preſerve themſelves and the Kingdome from ſlave<g ref="char:EOLhyphen"/>rie and deſolation; and that the Actors therein have been ſtiled, <hi>Anglie Reipublice zealatores.</hi>
+            </p>
+            <p>And as touching <hi>William Prin</hi> the Member his firſt Argument, That their proceeding againſt the King is an offence within the Statute 25 <hi>Edw.</hi> 3. concerning Treaſon.</p>
+            <pb n="8" facs="tcp:117271:5"/>
+            <p>I <hi>William Prin</hi> the Barreſter do remember, That in the beginning of this late warre, the Cavaliers u<g ref="char:EOLhyphen"/>ſed the ſame Argument againſt the Parliaments rai<g ref="char:EOLhyphen"/>ſing Arms; and I then made this Anſwer to it, <hi>page</hi> 107 of my ſaid firſt Part; That the Parliament and whole Kingdom being the higheſt power, or any Member of the Parliament cannot by any publique Acts or Votes of theirs, conſented to in Parliament become Traytors, or guilty of High Treaſon againſt the King, either by the Common Law or the Statute of 25. <hi>Edw.</hi> 3. <hi>cap.</hi> 2. of Treaſons which running in the fingular number (<hi>If a man</hi> &amp;c.) That is any pri<g ref="char:EOLhyphen"/>vate man or men by their own private Authority <hi>(ſhall leavy War)</hi> againſt the King it ought to be judged high Treaſon, and extends not to the whole Kingdom or Court of Parliament repreſenting it (of which no Trea<g ref="char:EOLhyphen"/>ſon was ever yet preſumed) the rather becauſe the Parliament by this very Act is made the judge of all Treaſons that are doubtfull, and was never yet in<g ref="char:EOLhyphen"/>cluded within the words or meaning of any Law concerning Treaſon, and therefore cannot be guilty of it. Hence the depoſitions of <hi>Archigallo</hi> and <hi>E<g ref="char:EOLhyphen"/>merian</hi> two, ancient Brittiſh Kings, by the unanimous aſſent of the Lords and Commons for their Rapines, Oppreſſion, and Tyranny and of <hi>Edward</hi> the ſecond, <hi>Richard</hi> the ſecond, <hi>Henry</hi> the ſixth, <hi>Edward</hi> the fourth by Acts of Parliament, the creating of <hi>Richard</hi> the third King, with the frequent tranſlocations of the Crowne from the right Heire at Common Law to o<g ref="char:EOLhyphen"/>thers, whohad no good Title by the whole King<g ref="char:EOLhyphen"/>dome or Parliament (no leſſe then high Treaſon in private perſons) was never yet reputed, much leſſe
+<pb n="9" facs="tcp:117271:5"/>queſtioned for or adjudged high Treaſon in the whole kingdome or Parliament, or any cheife active Mem<g ref="char:EOLhyphen"/>bers in thoſe Parliaments which by the law are un<g ref="char:EOLhyphen"/>repealable of. Treaſon, for any their judiciall actions and Reſolutions in ſuch caſes, being only tercious, and erroneous, reverſible by other Acts in Parliament, not trayterous and rebellious, as appeares by all the fore quoted Statutes, and by the ſtatute 13 <hi>Eliz.</hi> cha. 1. which makes it high Treaſon for any perſon to affirm that the authority of the Parliament of <hi>England</hi> is not able to make Lawes and Statutes of ſufficient force, to alter, limit, and bind the Crowne of this Realme, and the deſcent limitations and inheritance and Go<g ref="char:EOLhyphen"/>vernment thereof, or any mans Title or Right there<g ref="char:EOLhyphen"/>to.</p>
+            <p>And for direct Authorities in this very point <hi>Rob. Triſilian</hi> and <hi>Belknap</hi> (then cheife Juſtices <hi>Holt, Ful<g ref="char:EOLhyphen"/>thorpe</hi> and <hi>Burgh,</hi> Judges) <hi>Lockton</hi> Kings Serjeant, and <hi>Blake</hi> the Kings Councell, in the Parliament of 11. <hi>Richard</hi> 2. were ſome condemned, and exe<g ref="char:EOLhyphen"/>cuted others, and baniſhed the Realme as guilty of high Treaſon; Onely for affirming under their hands and ſeales, That the Duke of <hi>Gloceſter,</hi> the Earles of <hi>Arundell</hi> and <hi>Warwicke</hi> were (and that other Lords and Commons might be) guilty of high Treaſon for procuring a Commiſſion and other proceedings Vot<g ref="char:EOLhyphen"/>ed in Parliament, and might be puniſhed for it as Trai<g ref="char:EOLhyphen"/>tors; which opinion of theirs was alſo at another Parliament <hi>prima Henry</hi> 4. chap, 2, 3, 4. held a traite<g ref="char:EOLhyphen"/>rous opinion, and the Judgement given againſt thoſe Judges for this Traiterous opinion, tending to the ut<g ref="char:EOLhyphen"/>ter ſubvesſion of Parliaments, was reſolved and en<g ref="char:EOLhyphen"/>acted to be juſt.</p>
+            <pb n="10" facs="tcp:117271:6"/>
+            <p>This Judge <hi>Belknap</hi> foreſaw, and therefore was un<g ref="char:EOLhyphen"/>willing to put his Seale to this opinion; ſaying, there wanted but a hurdle, a horſe, and a halter, to carry him where hee might ſuffer the death hee deſerved: for quoth he, if I had not done this I ſhould have died for it, and becauſe I have done it, I deſerve death, for be<g ref="char:EOLhyphen"/>traying the Lords. Which makes me wonder at a paſſage in <hi>Speed</hi> who Records it, now frequent in Ma<g ref="char:EOLhyphen"/>lignants mouthes, That the very ſhop where the Bar<g ref="char:EOLhyphen"/>rons, originall Treaſons were forged was the Parli<g ref="char:EOLhyphen"/>ament houſe, wherein from time to time they forced on the King (<hi>Edward</hi> the ſecond) preſumptuous and treaſonous ordinations, not only to reforme the Kings houſe, and councell, and to place, and diſplace all great Officers, But even claimed a joynt intereſt in the Regiment of the kingdom, together with the King, which <hi>William Juge</hi> (a Judge of the Common Law) with other like ſticklers, Traiterouſly perſwaded them was according to Law, which groſſe ſlander of the Parliament Houſe, would have been capitall at leaſt in former ages, and may now indanger the neckes of thoſe who ſpeak or maintaine the ſame of this preſent Parliament.</p>
+            <p>And I <hi>William Prinne</hi> the Barreſter have added theſe words, <hi>pag.</hi> 108. Never did any of our Kings charge any Parliament with high Treaſon hitherto, much leſſe indict or wage warre againſt their Parlia<g ref="char:EOLhyphen"/>ments as Traytors, though they have queſtioned and depoſed Kings for offences againſt (and for being ene<g ref="char:EOLhyphen"/>mies or Traytors to) the kingdome. Let none then dare to affirme, that the Houſes of Parliament, are or can be Traytors now, for providing for their own
+<pb n="11" facs="tcp:117271:6"/>and the Kingdomes ſafety. Ad to this, for a further anſwer to the ſaid argument of Treaſon, produced by <hi>William Prynne</hi> the Member in his preſent Pam<g ref="char:EOLhyphen"/>phlet, that in his Rehearſall of the ſayd Statute, hee hath foulely miſcarried and falſified the words of it.</p>
+            <p>For, whereas the Statute mentions nothing at all touching depoſing the King, he urges the Statute thus: That it is no leſſe then high Treaſon for any man by overt act to compaſſe or imagine the depoſiti<g ref="char:EOLhyphen"/>on or death of the King: Adding the word depoſiti<g ref="char:EOLhyphen"/>on, which is no where found in the whole Statute.</p>
+            <p>And as touching <hi>William Prinne</hi> the Member his argument, that this proceeding againſt the King is contrary to the Oath of Allegiance.</p>
+            <p>I <hi>William Prinne</hi> the Barreſter did heretofore meete with the like objection, touching the Oath of Supre<g ref="char:EOLhyphen"/>macy, in relation to the late war.</p>
+            <p>
+               <hi>Viz.</hi> That the King is the onely ſupreame Gover<g ref="char:EOLhyphen"/>nour of this Realm, and that <hi>Bracton, Fleta,</hi> and our Law Bookes reſolve, that the King hath no Peere in the kingdome, for ſo he ſhould loſe his Empire, ſince Peeres (or Equalls) have no command over one ano<g ref="char:EOLhyphen"/>ther, much more then ought he not to have a ſuperior, or mightier, for ſo he ſhould be inferiour to thoſe who are ſubject to him, and Interiors cannot be equall to Superiours.</p>
+            <p>The King ought not to be under man, but under God and the Law: If then juſtice be demanded of him by way of Petition (becauſe no Writt runnes a<g ref="char:EOLhyphen"/>gainſt him) (though antiently ſome Writts did) if he doe not juſtice, this puniſhment may be ſufficient to him, that he may expect God will revenge it, <hi>Nemo
+<pb n="12" facs="tcp:117271:7"/>quidem de factis ſuis preſumat diſputare, multe for<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> contra factum ſum venire, &amp;c.</hi> Therefore the King is above the Parliament and whole Kingdome, not they above him.</p>
+            <p>And this objection, I <hi>William Prinne</hi> the Barreſter anſwered thus in my ſayd firſt part, pag. 104. That the meaning of all theſe Bookes is, that the King is above every one of his Subjects, and hath no Peere nor Superiour, if they be taken particularly and di<g ref="char:EOLhyphen"/>ſtributely as ſingle men, as the words <hi>parem &amp; ſuperi<g ref="char:EOLhyphen"/>orem,</hi> in the ſingular number, and the like (explaine the meaning of the Bookes to be) but it wee take them collectively in Parliament, as they are one Bo<g ref="char:EOLhyphen"/>dy, and repreſent the whole kingdome, then theſe ve<g ref="char:EOLhyphen"/>ry Authours reſolve (in their fore-quoted words) that they are above the King, and may, yea, ought to re<g ref="char:EOLhyphen"/>ſtraine and queſtion his actions, his <hi>male</hi> admiſtra<g ref="char:EOLhyphen"/>tions, if there be juſt cauſe.</p>
+            <p>Secondly, <hi>Bracton</hi> explaines himſelfe, how he is higheſt, and without a Peere, to wit, in diſtributing juſtice: That is, he is the higheſt Juſticiar in the kingdome, but as low as any in receiving juſtice.</p>
+            <p>And further, that the Oath of Supremacy (that the King is the onely ſupreame Governour) relates onely, or at leaſt principally, to the Popes and Forraine Princes authorities formerly uſurped in this Realme, as the Title, words, and ſcope of the Statute of 1. <hi>Eliz.</hi> cap 1. and the very next words in the Oath it ſelfe undenyable manifeſt; therefore it referres not at all to Parliaments, or their juriſdiction, Power, Supe<g ref="char:EOLhyphen"/>riority, Preheminence, or Authority: nor are they ſo much as once thought of by the preſcribers of this
+<pb n="13" facs="tcp:117271:7"/>Oath, which had its creat on and authority from the Parliament. And I <hi>William Prinne</hi> the Barreſter ha<g ref="char:EOLhyphen"/>ving thus anſwered the Oath of Supremacy, This ſemblable anſwer may be added touching the Oath of Allegiance, that the Statute 3. <hi>Jacobi</hi> 4. which cre<g ref="char:EOLhyphen"/>ates this Oath, is intituled an Act for better diſcove<g ref="char:EOLhyphen"/>ring and repreſſing Popiſh Recuſants, and that the Oath it ſelfe relates onely to the Popes unlawfull ex<g ref="char:EOLhyphen"/>erciſe of authority and juriſdiction within this King<g ref="char:EOLhyphen"/>dome, and that it ſo appears to be, by the ſayd <hi>William Prynne</hi> the Member his owne Rehearſall of it. In this objection, ſave that in this Rehearſall, he hath delt as before, and hath made bold in this particular alſo to ſatisfie the words of the Oath, which in truth runnes thus.</p>
+            <p>That the Pope neither of himſelfe, nor by any Au<g ref="char:EOLhyphen"/>thority of the Church of <hi>Rome,</hi> or by any other means, with any other, hath power or Authority to depoſe the King.</p>
+            <p>But the ſaid <hi>William Pryn</hi> the Member, in his ſaid Rehearſall makes the Oath to run thus.</p>
+            <p>That the Pope neither of himſelf, nor by any autho<g ref="char:EOLhyphen"/>rity of the Church of <hi>Rome,</hi> or by any other means, <hi>nor any other, hath power,</hi> &amp;c. and ſo inſtead of the words <hi>with any other,</hi> implying the Authority of the Pope joyned with others, he makes it a diſtinct clauſe <hi>nor any other;</hi> and ſo upon this forgery, including the Parliament within thoſe words <hi>nor any other,</hi> he would make this proceeding againſt the King to be contrary to the Oath of Allegiance.</p>
+            <p>And touching <hi>William Pryn</hi> the Member his Argu<g ref="char:EOLhyphen"/>ments, That there is no Preſident in the old Teſtament
+<pb n="14" facs="tcp:117271:8"/>of any one King judicially impeached, arraigned, de<g ref="char:EOLhyphen"/>poſed, or put to death by the Congregation.</p>
+            <p>As alſo that no Proteſtant Kingdome or State, did over yet depoſe their King.</p>
+            <p>I <hi>William Pryn</hi> the Barreſter do refer the Reader to my Appendix annexed to my fourth part of the Sove<g ref="char:EOLhyphen"/>raign power of Parliaments, manifeſting <hi>p.</hi> 1. by ſun<g ref="char:EOLhyphen"/>dry Hiſtories and Authors, That in the ancient Ro<g ref="char:EOLhyphen"/>man Kingdom and Empire, in the Greek and German Empires derived out of it, in the old Grecian, <hi>Indian, Italie, Hungary, Bohemia, Denmark, Poland, Sweden, Scotland,</hi> yea of <hi>Judah, Iſrael,</hi> and others mentioned in the Scripture, the Supream Soveraignty and power reſided not in the Emperors and Kings themſelves, but in their Kingdomes, Senates, Parliaments, Peo<g ref="char:EOLhyphen"/>ple, who had not only a power to reſtrain, but to cen<g ref="char:EOLhyphen"/>ſure and remove their Emperors and Princes for their Tyranny and miſ-government: In which Appendix alſo is an Anſwer to the principall Arguments which are produced to prove that Kings are above their king<g ref="char:EOLhyphen"/>doms and Parliaments, and not queſtionable or ac<g ref="char:EOLhyphen"/>countable to them, nor cenſurable by them for any Exorbitant actions; and <hi>p.</hi> 2. are theſe words.</p>
+            <p>I ſhall infallibly prove, That in the Roman State and Empire at the firſt, in the Greek Empire ſince; in the German Empire heretofore and now; in the antient kingdom of <hi>Greece, Egypt, India,</hi> and elſe<g ref="char:EOLhyphen"/>where; in the Kingdoms of <hi>France, Spain, Hungary, Bohemia, Denmark, Sweden, Poland, Scotland,</hi> and moſt other kingdomes in the world, yea in the kingdomes of <hi>Judah</hi> and <hi>Iſrael,</hi> and others mentioned in Scrip<g ref="char:EOLhyphen"/>ture,
+<pb n="15" facs="tcp:117271:8"/>the higheſt Soveraign Authority both to elect, continue, limit, correct, depoſe their Emperors &amp; Kings, to bound their Royal power and prerogatives to enact Laws, create new Offices, and forms of government, reſided alwaies in theſe whole Kingdomes, Senates, Dyets, Parliaments, People, and not in the Emperors, Kings, or Princes perſons.</p>
+            <p>Laſtly, as <hi>page</hi> 110. in the depoſition, of <hi>Mary</hi> Queen of Scots mother to King <hi>James</hi> is ſet forth: Together with the approbation of the fact by the State of <hi>England</hi> at that time: Touching the name or Title which <hi>William Prin</hi> the Member is pleaſed to give to the Parliament now ſitting, calling it <hi>A Preſent Unparliamentary Juncto.</hi>
+            </p>
+            <p>I <hi>William Prin</hi> the Barreſter do call to mind, That when the King, and divers of the Lords, and of the Commons in the beginning of our late Troubles had diſſerted the Parliament, I did then in my ſaid firſt part of the Soveraign power of Parliaments, <hi>page</hi> 43, 44. maintain and prove, That the remaining part was a Parliament, notwithſtanding the perſonall ab<g ref="char:EOLhyphen"/>ſence of the reſt; and that as long as thoſe abſent are Members of the Parliament, they ſhall ſtill be judg<g ref="char:EOLhyphen"/>ed legally preſent whether they will or no.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Jan. 25. 1648.</p>
+            <p>Imprimatur <hi>Theodore Jennings.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
